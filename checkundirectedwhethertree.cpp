@@ -99,10 +99,10 @@ int main()
     Graph graph(edges, n);
  
     if (isTree(graph, n)) {
-        cout << "The graph is a tree, my homie.";
+        cout << "The graph is a tree, my fav homie.";
     }
     else {
-        cout << "The graph is not a tree, my homie";
+        cout << "The graph is not a tree, my fav fav homie";
     }
  
     return 0;
